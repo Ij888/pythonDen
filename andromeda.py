@@ -1,8 +1,10 @@
 
+#first additions:Coming to grips with variables in python
 #someVar = 'buffer3'
 #print(someVar)
 
 #==============
 
-someName = input('whT IS YOUR Name?-- ')
-print('hi ' + someName + ' you are welcome')
+#second addition:
+someName = input('What is your name?-- ')
+print('Hi ' + someName + ', you are welcome.')
