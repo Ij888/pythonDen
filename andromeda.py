@@ -6,4 +6,4 @@
 
 #second addition:
 someName = input('What is your name?-- ')
-print('Hi \'' + someName + '\', you are welcome.')
+print('Hi ' + someName + ', you\'re welcome.')
