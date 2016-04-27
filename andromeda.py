@@ -2,7 +2,7 @@
 #someVar = 'buffer3'
 #print(someVar)
 
-#============== use \n, \", \' to add new line, escape a double or single quote/
+# use \n, \", \' to add new line, escape a double or single quote/
 
 #second addition:
 someName = input('What is your name?-- ')
