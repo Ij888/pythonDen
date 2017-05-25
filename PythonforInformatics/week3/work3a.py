@@ -1,13 +1,12 @@
-totalHours = raw_input("Enter Hours Worked: ")
-rate = raw_input("Enter Rate: ")
-totalHours = float()
-rate = float()
-
-payLoad = totalHours*rate
+rawHours = raw_input("Enter Hours Worked: ")
+rawRate = raw_input("Enter Rate: ")
+totalHours = float(rawHours)
+rate = float(rawRate)
 
 if totalHours <= 40:
+	payLoad = totalHours*rate
 	print (payLoad)
 elif totalHours > 40:
-	print ((payLoad) + (5*rate*1.5))
+	print (((totalHours-5)*rate) + (5*rate*1.5))
 else:
 	print 'DONE!!'
