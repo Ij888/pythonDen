@@ -1,6 +1,6 @@
-## print in py3 -> print()
-	print in py2 -> print()
+print in py3 -> print()
+print in py2 -> print()
 	
-	Old: print "The answer is", 2*2
-	New: print("The answer is", 2*2)
+Old: print "The answer is", 2*2
+New: print("The answer is", 2*2)
 	
