@@ -2,4 +2,4 @@
 n = 3
 r = 4
 
-print (r)
+print (2*r)
