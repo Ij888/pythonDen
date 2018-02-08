@@ -1,2 +1,2 @@
-if x > 7:
-  
+#script that import other scripts
+
