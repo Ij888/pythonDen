@@ -1,5 +1,5 @@
-print in py3 -> print("some print job")
-print in py2 -> print "some print job"
+print in py3 --> print("some print job")
+print in py2 --> print "some print job"
 	
 Old: print "The answer is", 2*2
 New: print("The answer is", 2*2)
