@@ -1,7 +1,5 @@
 #python functions
-#def fFunction(){
-    
-}
+#def fFunction(){}
 
 aVariable = 5
 print(aVariable*aVariable)
